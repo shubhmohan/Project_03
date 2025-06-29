@@ -23,14 +23,14 @@
 ---
 
 ## 📷 Demo 
-Guess the number (between 1 and 100): 50
-High! Please.🥵
-Guess the number: 25
-"Low! Please.🥶
-Guess the number: 55
-🔥 Super close!
-Guess the number: 50
-🎉 Correct! You guessed it in 4 tries.
+Guess the number (between 1 and 100): 50 <br>
+High! Please.🥵 <br>
+Guess the number: 25 <br>
+"Low! Please.🥶 <br>
+Guess the number: 55 <br>
+🔥 Super close! <br>
+Guess the number: 50 <br>
+🎉 Correct! You guessed it in 4 tries. <br>
 
 ---
 
